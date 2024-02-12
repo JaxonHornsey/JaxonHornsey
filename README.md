@@ -2,7 +2,12 @@
 <h3 align="left">4th Year Computer Science Student Specializing in Artificial Intelligence</h3>
 
 
-🔍Passionate about technology and interested in the application of AI models, data analytics and web development. Currently working on a sport (Formula 1) Dashboard to provide fans with infographics, news and race predictions. This project blends my love for technology with the data driven world of motorsports, showcasing my skills in React, Node.js, and AI-based race prediction.
+🔍Passionate about technology and interested in the application of AI models, data analytics and web development. 
+
+
+Currently working on a sport (Formula 1) Dashboard to provide fans with infographics, news and race predictions. This project blends my love for technology with the data driven world of motorsports, showcasing my skills in React, Node.js, and AI-based race prediction.
+
+##
 <p align="left">
 </p>
 
