@@ -1,22 +1,31 @@
-<h1 align="left">Jaxon Hornsey</h1>
-<h3 align="left">4th Year Computer Science Student Specializing in Artificial Intelligence</h3>
-
-
-🔍Passionate about technology and interested in the application of AI models, data analytics and web development. 
-
-
-Currently working on a sport (Formula 1) Dashboard to provide fans with infographics, news and race predictions. This project blends my love for technology with the data driven world of motorsports, showcasing my skills in React, Node.js, and AI-based race prediction.
+<h1 align="center">Hi 👋, I'm Jaxon </h1>
+<h4 align="center">4th Year Computer Science Student from Canada</h4>
 
 ##
+🔍Passionate about technology and specficially interested in the development of:
+- Artifical Intelligence
+- Data Analytics
+- Web Development
+
+## 
+🚗 Check out my ongoing project <a href="https://formula-won.vercel.app/" > Formula Won </a> where I'm working on a sport (Formula 1) Dashboard to provide fans with infographics and race predictions. 
+
+<br>
+ ✨ Always seeking opportunities to collaborate, contribute, and learn.
+
 <p align="left">
 </p>
 
-🌟 Actively seeking opportunities to collaborate, contribute, and learn. Open to internships and full time positions where I can apply my skills and grow as a professional.
+##
 
+<br>
+📪Connect with me :  <br>
+<a href="jaxonhornsey.github.io">My website</a> &emsp;  &emsp; 
 
-
-
-
+hornseyj@uwindsor.ca
+<br>
+<a href="https://www.linkedin.com/in/jaxon-hornsey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" />
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaxonhornsey&show_icons=true&locale=en&layout=compact" alt="jaxonhornsey" /></p>
 
