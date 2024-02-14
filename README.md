@@ -8,7 +8,8 @@
 - Web Development
 
 ## 
-🚗 Check out my ongoing project <a href="https://formula-won.vercel.app/" > Formula Won </a> where I'm working on a sport (Formula 1) Dashboard to provide fans with infographics and race predictions. 
+🚗 Check out my ongoing project <a href="https://formula-won.vercel.app/" > Formula Won </a> <br>
+- Where I'm working on a sport (Formula 1) Dashboard to provide fans with infographics and race predictions. 
 
 <br>
  ✨ Always seeking opportunities to collaborate, contribute, and learn.
@@ -20,7 +21,7 @@
 
 <br>
 📪Connect with me :  <br>
-<a href="jaxonhornsey.github.io">My website</a> &emsp;  &emsp; 
+<a href="jaxonhornsey.github.io">My Portfolio</a> &emsp;  &emsp; 
 
 hornseyj@uwindsor.ca
 <br>
