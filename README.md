@@ -21,7 +21,7 @@
 
 <br>
 📪Connect with me :  <br>
-<a href="jaxonhornsey.github.io">My Portfolio</a> &emsp;  &emsp; 
+<a href="https://jaxonhornsey.github.io/">My Portfolio</a> &emsp;  &emsp; 
 
 hornseyj@uwindsor.ca
 <br>
