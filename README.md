@@ -8,9 +8,9 @@
 - Web Development
 
 ## 
-🚗 Check out my ongoing project <a href="https://formula-won.vercel.app/" > Formula Won </a> <br>
-- Where I'm working on a sport (Formula 1) Dashboard to provide fans with infographics and race predictions. 
+🚗<a href="https://formula-won.vercel.app/" > Discover Formula Won </a>. An ongoing project crafted for Formula One enthusiasts aiming to deepen their understanding of the sport they love.
 
+- **Formula Won** offers live infographics and race prediction analysis for both live and historic sessions, providing fans with insights and data that enrich the Formula One viewing experience. 
 <br>
  ✨ Always seeking opportunities to collaborate, contribute, and learn.
 
