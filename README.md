@@ -8,7 +8,7 @@
 - Web Development
 
 ## 
-🚗<a href="https://formula-won.vercel.app/" > Discover Formula Won </a>. An ongoing project crafted for Formula One enthusiasts aiming to deepen their understanding of the sport they love.
+🚗<a href="https://formula-won.vercel.app/" > Discover Formula Won </a>.  An ongoing project crafted for Formula One enthusiasts aiming to deepen their understanding of the sport they love.
 
 - **Formula Won** offers live infographics and race prediction analysis for both live and historic sessions, providing fans with insights and data that enrich the Formula One viewing experience. 
 <br>
