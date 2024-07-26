@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaxon </h1>
-<h4 align="center">Computer Science Graduate and Data Engineer Intern from Canada</h4>
+<h4 align="center">2024 Computer Science Graduate and Current Data Engineer Intern from Canada</h4>
 
 ##
 🔍Passionate about technology and specficially interested in the development of:
