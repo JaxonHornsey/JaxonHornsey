@@ -3,6 +3,7 @@
 
 ##
 🔍Passionate about technology and specficially interested in the development of:
+- Automation
 - Artifical Intelligence
 - Data Analytics
 - Web Development
